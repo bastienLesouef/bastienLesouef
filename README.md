@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bastienLesouef
 - 👀 I’m interested in computer science, finance, big data
-- 🌱 I’m currently learning computer science for finance but I also have a master degree un finnacial risk management.
+- 🌱 I’m currently learning computer science for finance but I also have a master degree un finacial risk management.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
